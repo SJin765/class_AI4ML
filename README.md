@@ -5,7 +5,7 @@ author: SJ
 class : CAU, MachineLearning for AI
 
 ### Folders
-- week[1-16]: exercise notebook for each week
+- week[1-15]: exercise notebook or codes, for each week
 - Team project
 
 ### Textbook codes
