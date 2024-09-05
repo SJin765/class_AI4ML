@@ -15,7 +15,7 @@ https://github.com/ageron/handson-ml2
 
 ### Markdown Tutorial
 
-Colab Markdown Tutorial
+- Colab Markdown Tutorial
 
 https://colab.research.google.com/notebooks/markdown_guide.ipynb
 
