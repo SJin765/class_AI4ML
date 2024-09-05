@@ -2,7 +2,7 @@
 
 author: SJ
 
-class : CAU, AI for MachineLearning
+class : CAU, MachineLearning for AI
 
 ### Folders
 - week[1-16]: exercise notebook for each week
