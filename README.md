@@ -1,6 +1,7 @@
 # class_AI4ML
 
 author: SJ
+class : CAU, AI for MachineLearning
 
 ### Folders
 - week[1-16]: exercise notebook for each week
