@@ -36,11 +36,23 @@ class : CAU, MachineLearning for AI
 - handling data issue : 결측값 등 데이터에 발생한 문제 해결, Mitigating
 
 #### week 4
+- Regular expression : 조건을 설정하여 문자를 찾는 문법
 - Adding and Removing Data : column 추가, Concatenation, 필요없는 데이터 삭제
 - querying and merging : query(), merge(), join()
-- Regular expression : 조건을 설정하여 문자를 찾는 방법
 
 ### week 5
 - DataFrame Operations : Binning, apply(), rolling()
 - aggregation : 통계량으로 summerize, groupby(), Pivot tables / crosstabs
 - time series : 시간에 따라 선택하고 필터링, shift()로 lagged data 생성, diff()로 differencing, Resampling, Merging
+
+### week 6
+- 머신 러닝의 종류 : Supervised learning, Unsupervised learning, Semisupervised learning / Reinforcement learning, Batch learning, Online learning
+- End-to-End Machine Learning Project
+  1. Look at the big picture
+  2. Get the data
+  3. Discover and visualize the data to gain insights
+  4. Prepare the data for Machine Learning algorithms
+  5. Select a model and train it
+  6. Fine-tune your model
+
+
