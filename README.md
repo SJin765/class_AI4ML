@@ -40,12 +40,12 @@ class : CAU, MachineLearning for AI
 - Adding and Removing Data : column 추가, Concatenation, 필요없는 데이터 삭제
 - querying and merging : query(), merge(), join()
 
-### week 5 : pandas chapter 4
+#### week 5 : pandas chapter 4
 - DataFrame Operations : Binning, apply(), rolling()
 - aggregation : 통계량으로 summerize, groupby(), Pivot tables / crosstabs
 - time series : 시간에 따라 선택하고 필터링, shift()로 lagged data 생성, diff()로 differencing, Resampling, Merging
 
-### week 6 : ML chapter 1, 2
+#### week 6 : ML chapter 1, 2
 - 머신 러닝의 종류 : Supervised learning, Unsupervised learning, Semisupervised learning / Reinforcement learning, Batch learning, Online learning
 - End-to-End Machine Learning Project
   1. Look at the big picture
