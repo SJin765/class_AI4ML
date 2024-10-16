@@ -55,4 +55,9 @@ class : CAU, MachineLearning for AI
   5. Select a model and train it
   6. Fine-tune your model
 
-
+#### week 7 : ML chapter 3
+- classification : MNIST 데이터 (손글씨 이미지) 분류하기
+- Training a Binary Classifier
+- Performance Measures (CV accuracy, Confusion matrix, precision/recall, ROC curve)
+- Multiclass Classification
+- ...
